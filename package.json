@@ -1,0 +1,22 @@
+{
+  "name": "contacts",
+  "version": "1.0.0",
+  "description": "CLI app for contacts management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fff500/goit-node-cli.git"
+  },
+  "author": "Pavlo Tereshko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fff500/goit-node-cli/issues"
+  },
+  "homepage": "https://github.com/fff500/goit-node-cli#readme",
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
+}
