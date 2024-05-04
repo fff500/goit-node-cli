@@ -6,3 +6,13 @@ commander@^12.0.0:
   version "12.0.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-12.0.0.tgz#b929db6df8546080adfd004ab215ed48cf6f2592"
   integrity sha512-MwVNWlYjDTtOjX5PiD7o5pK0UrFU/OYgcJfjjK4RaHZETNtjJqrZa9Y9ds88+A+f+d5lv+561eZ+yCKoS3gbAA==
+
+nano-id@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/nano-id/-/nano-id-1.1.0.tgz#0ee02e76f3482c1c148ab1830e45d59cafa304e0"
+  integrity sha512-vQB87xWh4CCBZq2d7/wF46uiwZOx+n6ShQ4QBuiejQhBSijkTeK6Ugv1EhgjVAg8fwIu9wtWk3GhCN4ViD0TJQ==
+
+nanoid@^5.0.7:
+  version "5.0.7"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-5.0.7.tgz#6452e8c5a816861fd9d2b898399f7e5fd6944cc6"
+  integrity sha512-oLxFY2gd2IqnjcYyOXD8XGCftpGtZP2AbHbOkthDkvRywH5ayNtPVy9YlOPcHckXzbLTCHpkb7FB+yuxKV13pQ==
